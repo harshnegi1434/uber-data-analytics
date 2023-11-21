@@ -23,11 +23,3 @@
 6. Computer Instance (Virtual Machine on GCP)
 7. BigQuery (Data Warehouse)
 8. Looker Studio (Visualization & Dashboard)
-
-## Project Dataset
-
-TBD
-
-## Miscellaneous
-
-TBD
